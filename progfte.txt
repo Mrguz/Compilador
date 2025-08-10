@@ -1,0 +1,49 @@
+TigerScript Ejemplo1 --Todas los programas en TigerScript deben comenzar con la palabra TigerScript, seguido del nombre del programa
+
+Inicio --Se declara el inicio del programa
+  -- Variables correctas
+  Numero a = 1
+  Numero b = 2
+  Numero c = 3
+  Numero id = 0
+  Numero edad = 20
+  Cadena nombre = "eee"
+  Cadena _name = "nombre"
+  Booleano bandera = Verdadero
+
+  -- Variables incorrectas
+  Numero 3aa = 10
+  Numero sop@ = 2
+  Numero @rroz
+
+
+  --Expresiones aritmeticas
+  a = edad + a / 2                     -- correcta
+  b = edad * edad + edad               -- correcta
+  c = edad + (2 * 2)                   -- correcta
+  a = b + c *d / d                     -- correcta
+  id = (a + b) * c                     -- correcta
+
+
+
+  id = (a * b) / c * 2 - z + 1
+  id = edad *                           -- incorrecta
+  b = id + a /                          -- incorrecta
+  d = 20 + 2)                           -- incorrecta
+  edad = (id + 5                        -- incorrecta      
+  edad = id ++ 34                       -- incorrecta
+  id = po, + abc                        -- incorrecta
+  id = edad * id +- edad                -- incorrecta
+
+
+Fin --Se declara el fin del programa
+
+
+
+
+
+
+
+
+
+
